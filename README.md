@@ -18,11 +18,11 @@ JSButton *button = [[JSButton alloc]initWithFrame:CGRectMake(0, 0, 100, 30)];
 } forEvents:UIControlEventTouchUpInside];
 ```
 
-We instantiate a `JSButton` and then pass it a block to perform on `UIControlEventTouchUpInside`.
+A `JSButton` is instantiated, and a block is passed to it to be executed on `UIControlEventTouchUpInside`.
 
 ## Demo
 
-Build and run the JSButtonDemo project in Xcode to see `JSButton` in action.
+Build and run the JSButtonDemo project in Xcode to see a full demo of `JSButton`.
 
 ## Requirements
 
