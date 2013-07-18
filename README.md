@@ -3,7 +3,7 @@ JSButton
 
 **A subclass of `UIButton` that includes a method that takes a block and executes it on a given UIControlEvent**
 
-'JSButton' is a subclass of `UIButton` that makes it much simpler and cleaner to perform trivial tasks upon the tap of a button. `JSButton` eliminates the need to create selectors for responding to button events.
+`JSButton` is a subclass of `UIButton` that makes it much simpler and cleaner to perform trivial tasks upon the tap of a button. `JSButton` eliminates the need to create selectors for responding to button events.
 
 ## Usage
 
